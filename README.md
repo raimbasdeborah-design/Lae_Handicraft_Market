@@ -5,9 +5,9 @@ Lae-based handicraft market that sells handmade Papua New Guinean crafts —
 bilums, wood carvings, paintings, necklaces and baskets — to local and visiting
 customers.
 
-- Live site: ADD YOUR PUBLISHED GITHUB PAGES URL HERE
+- Live site:(https://raimbasdeborah-design.github.io/Lae_Handicraft_Market/)
 - Repository: ADD YOUR GITHUB REPOSITORY URL HERE
-- Student: ADD YOUR NAME AND STUDENT ID HERE
+- Student: RAIMBAS Deborah & 25530143
 - Course: IS229 – Web Design, Assessment 2 (2026)
 
 ## Project Overview
