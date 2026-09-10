@@ -6,7 +6,7 @@ bilums, wood carvings, paintings, necklaces and baskets — to local and visitin
 customers.
 
 - Live site:(https://raimbasdeborah-design.github.io/Lae_Handicraft_Market/)
-- Repository: ADD YOUR GITHUB REPOSITORY URL HERE
+- Repository:(https://github.com/raimbasdeborah-design/Lae_Handicraft_Market.git)
 - Student: RAIMBAS Deborah & 25530143
 - Course: IS229 – Web Design, Assessment 2 (2026)
 
