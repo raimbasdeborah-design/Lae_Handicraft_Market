@@ -13,9 +13,9 @@ customers.
 ## Project Overview
 
 Business: Lae Handicraft Market
-Target audience: Tourists and local residents in Lae/Morobe Province
+Target audience: Tourists and local residents in Lae/Morobe Province that are
 interested in buying authentic, handmade Papua New Guinean crafts, and anyone
-wanting to learn more about the artisans and traditions behind the items.
+wanting to learn more about the artisans, the history and traditions behind the items.
 
 Realistic user tasks the site supports:
 - Learn what the market is and why it exists (About)
@@ -87,17 +87,9 @@ values). Issues found and fixed during development included an unclosed
 `<div>`, a malformed stray tag, and a missing `</main>`/footer on the
 Products page.
 
-ADD A SHORT NOTE HERE ON YOUR FINAL VALIDATOR RESULT (e.g. "0 errors, 0
-warnings" or list any warnings you intentionally left and why), and include
-your validator screenshots/exported results in the repository (for example
-under a `validation/` folder) as your evidence.
-
 ## Git History
 
-ADD A SENTENCE OR TWO SUMMARISING YOUR COMMIT HISTORY HERE, e.g. "Commits
-progress from initial sitemap and repository setup (Week 6), through global
-HTML structure and Home/About pages (Week 7), remaining pages/forms/
-multimedia (Week 8), to final validation and publication (Week 9)."
+I have done everything locally so there isn't much GitHub history. I have only made a few changes and commits after finishing up and uploading everything on here.
 
 ## Acknowledgements
 
