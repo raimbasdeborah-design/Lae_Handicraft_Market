@@ -12,7 +12,7 @@ customers.
 
 ## Project Overview
 
-Business: Lae Handicraft Market
+Business: Lae Handicraft Market 
 Target audience: Tourists and local residents in Lae/Morobe Province that are
 interested in buying authentic, handmade Papua New Guinean crafts, and anyone
 wanting to learn more about the artisans, the history and traditions behind the items.
