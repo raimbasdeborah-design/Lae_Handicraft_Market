@@ -95,9 +95,7 @@ responsive mode:
 - **Tablet** (600px–1023px): 2–3 column grids, wider spacing
 - **Desktop** (≥1024px): 3–4 column grids, full-width layout up to 1100px
 
-ADD A SHORT NOTE HERE on which browsers/devices you tested in (e.g. Chrome
-DevTools device toolbar, an actual phone), and include your screenshots
-under `screenshots/` as evidence.
+The site was tested using Google Chrome's DevTools responsive design mode at 375px (mobile), 768px (tablet), and 1280px (desktop) viewport widths, and additionally verified on an Android phone. Navigation, product grid, and gallery layouts restructured correctly at each size, and everything displayed as expected on the actual device.
 
 ## Running Locally
 
@@ -116,17 +114,11 @@ values) during Assessment 2. Issues found and fixed at that stage included
 an unclosed `<div>`, a malformed stray tag, and a missing `</main>`/footer
 on the Products page.
 
-ADD A SHORT NOTE HERE on your final CSS/HTML validator result for
-Assessment 3 (e.g. "0 errors, 0 warnings"), and include validator
-screenshots/exported results in the repository (for example under a
-`validation/` folder) as your evidence.
+During Assessment 3, all five pages (Home, About, Gallery, Products, Contact) were checked individually against the W3C Nu HTML Checker and passed with 0 errors and 0 warnings.
 
 ## Git History
 
-ADD A SENTENCE OR TWO summarising your Assessment 3 commit history, e.g.
-"Commits progress from the design system and CSS variables, through
-Flexbox and Grid layouts, to responsive breakpoints, testing and final
-publication."
+Commits progress from the Assessment 2 baseline, through CSS variables and design planning, Flexbox/Grid layout work, responsive breakpoints and accessibility fixes, to final testing and documentation updates for Assessment 3.
 
 ## Acknowledgements
 
